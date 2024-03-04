@@ -1,16 +1,23 @@
-### Hi there 👋
+## 👋 Hello!
 
-<!--
-**Ola-Cencora/Ola-Cencora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Junior Front-End Developer**, just about to graduate a Fullstack Developer bootcamp.
 
-Here are some ideas to get you started:
+I have been learning programming since May 2023. While participating 11-month Full Stack Developer Kodilla bootcamp, I created many projects using JavaSript, React and NodeJS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+One of them was a group project led by PM in the Kanban methodology, covering almost all aspects of commercial programming. [This one](https://github.com/odevpl/wdp-2310).
+
+I am currently working on the final project – an e-commerce website using my own brand and products, [check how the code is growing](https://github.com/Ola-Cencora/Fullstack_e-commerce).
+
+### Why do I want to become a developer? 👀
+
+I have always been interested in **technology and science**, especially how quickly our world is developing. So you see, I had to try.
+
+**I tried it and I really liked it!**
+
+The more I learn, the more fascinating everything becomes. I am still amazed by the endless possibilities that programming offers and how much technology influences every day of our lives!
+
+#### 🤔 Wait, front-end or full-stack?
+I really enjoy creating aesthetic and functional web solutions.  And I also like to "know things”, that’s why I decided on full-stack bootcamp, because I wanted to not only be able to create something that looks good but is also fully functional. Learning backend technologies allowed me to better understand how everything works together.
+
+#### 🎀 Aesthetic, huh?
+Yup, I happen to know something about this, because I ran my own ceramics studio for several years. [Here you can see more 🍭](https://github.com/Ola-Cencora/KURZceramika-web-project)
