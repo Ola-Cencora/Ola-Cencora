@@ -1,12 +1,10 @@
 ## 👋 Hello!
 
-I’m a **Junior Front-End Developer**, just about to graduate a Fullstack Developer bootcamp.
+I’m a **Junior Front-End Developer**, looking for my first commercial experience.
 
-I have been learning programming since May 2023. While participating 11-month Full Stack Developer Kodilla bootcamp, I created many projects using JavaSript, React and NodeJS.
+I have been learning programming since May 2023. While participating 11-month Full Stack Developer Kodilla bootcamp, I created many projects using JavaSript, React and NodeJS. You can see my final project [here](https://github.com/Ola-Cencora/Fullstack_e-commerce).
 
-One of them was a group project led by PM in the Kanban methodology, covering almost all aspects of commercial programming. [This one](https://github.com/odevpl/wdp-2310).
-
-I am currently working on the final project – an e-commerce website using my own brand and products, [check how the code is growing](https://github.com/Ola-Cencora/Fullstack_e-commerce).
+I am currently working on improving my testing skills by taking part in **React Testing Library and Jest** course by Stephen Grider.
 
 ### Why do I want to become a developer? 👀
 
@@ -24,6 +22,7 @@ Yup, I happen to know something about this, because I ran my own ceramics studio
 
 ### My skills
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
