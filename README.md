@@ -4,7 +4,10 @@ I’m a **Junior Front-End Developer**, looking for my first commercial experien
 
 I have been learning programming since May 2023. While participating 11-month Full Stack Developer Kodilla bootcamp, I created many projects using JavaSript, React and NodeJS. You can see my final project [here](https://github.com/Ola-Cencora/Fullstack_e-commerce).
 
-I am currently working on improving my testing skills by taking part in **React Testing Library and Jest** course by Stephen Grider.
+I am currently working on improving my coding skills by:\
+-> taking part in the Tech Leaders mentoring program,\
+-> participating in programming courses by Stephen Grider,\
+-> creating new projects and writing code every day.
 
 ### Why do I want to become a developer? 👀
 
